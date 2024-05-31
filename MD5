@@ -1,0 +1,17 @@
+c95ab3a56b38e983ed7d8763bff01d13 *DESCRIPTION
+17182792fcb44d54ea9986302ca25ee2 *LICENSE
+4514e0ec97ac213fba5768b2b0215625 *NAMESPACE
+e80e866812702418dd64793f303023c8 *NEWS.md
+a5fc1178a66c21f913d580600a751f28 *R/shift.R
+bc8d0bd0f329c2b29341f1ab88396b70 *R/trle.R
+4b61083ff8fe3ba9a497486233e7f6b0 *R/trle_cond.R
+ff875776d9b2348bf67bcc116f6e21d7 *R/trle_cond_stat.R
+b21e1ee008d4e2c789da72b61fa3f38c *README.md
+133975207570f42d25ebbdf0ea580b92 *man/shift.Rd
+6fd0bf23813cd5b3ec49ee596077950e *man/trle.Rd
+3cfb55bc37f51ac6f0c5d705afb72ae5 *man/trle_cond.Rd
+cdc89feeca6167f8b394c6e77754adb1 *man/trle_cond_stat.Rd
+8156e723ffbe989d7479de2a7936025a *tests/testthat.R
+888a47832f913f13b0adf377fd7691ab *tests/testthat/test-trle.R
+eb796951be766d30afb3d4a9ba33eb49 *tests/testthat/test-trle_cond.R
+00b282ca8c85b95142734a9abf25307e *tests/testthat/test-trle_cond_stat.R
